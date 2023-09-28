@@ -46,6 +46,17 @@
   a + a {
     opacity: 0.5;
   }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+}
+
+.page__date {
+  color: $dark-gray;
+  font-size: $type-size-7;
+  font-weight: bold;
 }
 
 /* remove border*/
