@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to UChicago NLP!"
+title: "UChicago NLP"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
