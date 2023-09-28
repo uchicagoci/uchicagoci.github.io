@@ -21,15 +21,15 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  // border-top: 1px solid $light-gray;
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    // margin-top: 2em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 1em 2em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -53,6 +53,18 @@
   }
 }
 
+.page__footer-title {
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.page__footer-location {
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
@@ -71,7 +83,6 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
-    text-transform: uppercase;
   }
 
   li + li:before {
