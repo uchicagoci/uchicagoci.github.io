@@ -53,6 +53,28 @@
   }
 }
 
+.page__footer-wrapper {
+  margin: 0 auto;
+  text-align: center;
+  vertical-align: top;
+}
+
+.page__footer-first {
+  display: inline-block;
+  padding: 0 18px;
+  text-align: left;
+}
+
+.page__footer-second {
+  display: inline-block;
+  padding: 0 18px;
+}
+
+.page__footer-logo {
+  width: 200px;
+  height: auto;
+}
+
 .page__footer-title {
   font-family: $global-font-family;
   font-size: $type-size-6;
@@ -68,6 +90,8 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: center;
+  margin-top: 18px;
 }
 
 .page__footer-follow {
