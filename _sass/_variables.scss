@@ -46,6 +46,10 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+/* UChicago colors (https://news.uchicago.edu/sites/default/files/attachments/_uchicago.identity.guidelines.pdf) */
+$uchicago-maroon            : #800000;
+$uchicago-yellow            : #FFB547;
+
 $white                      : #fff;
 $gray                       : #7a8288;
 $dark-gray                  : #767676;
@@ -94,11 +98,7 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 
 $masthead-link-color        : $white;
-$masthead-link-color-hover  : $light-gray;
-
-/* UChicago colors (https://news.uchicago.edu/sites/default/files/attachments/_uchicago.identity.guidelines.pdf) */
-$uchicago-maroon            : #800000;
-$uchicago-yellow            : #FFB547;
+$masthead-link-color-hover  : mix(#fff, $uchicago-yellow, 25%);
 
 /*
    Breakpoints
