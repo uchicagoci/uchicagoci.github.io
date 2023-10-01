@@ -437,7 +437,6 @@
 
   &:hover {
     color: $uchicago-maroon;
-    text-decoration: none !important;
   }
 }
 
@@ -453,4 +452,22 @@
   margin-top: 10px;
   font-size: 0.8em;
   line-height: 1.2;
+}
+
+/* ==========================================================================
+   PUBLICATION
+   ========================================================================== */
+
+.publication {
+  margin-bottom: 20px;
+}
+
+.publication-title {
+  display: block;
+  color: #000;
+  text-decoration: none !important;
+
+  &:hover {
+    color: $uchicago-maroon;
+  }
 }

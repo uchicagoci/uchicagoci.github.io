@@ -16,9 +16,9 @@ redirect_from:
       <a href="{{ person.website }}" class="faculty-name">
         {{ person.name }}
       </a>
-      <a href="mailto:{{ person.email }}" class="faculty-email">
+      <div class="faculty-email">
         {{ person.email }}
-      </a>
+      </div>
       <div class="faculty-interest">{{ person.interests }}</div>
     </div>
   {% endfor %}

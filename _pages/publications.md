@@ -2,11 +2,15 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div id="publication-list">
+  {% for publication in site.data.publications %}
+    <div class="publication">
+      <a href="{{ publication.paperurl }}" class="publication-title">{{ publication.title }}</a>
+      {{ publication.authors }} ({{ publication.venue }} {{ publication.year }})
+    </div>
+  {% endfor %}
+</div>

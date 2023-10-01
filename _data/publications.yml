@@ -1,0 +1,14 @@
+# TODO/@chenhao
+# TODO/@ari
+# TODO/@mina
+- title: Evaluating Human-Language Model Interaction
+  authors: Mina Lee, Megha Srivastava, Amelia Hardy, John Tickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang
+  venue: TMLR
+  year: 2023
+  paperurl: http://arxiv.org/abs/2212.09746
+
+- title: "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities"
+  authors: Mina Lee, Percy Liang, Qian Yang
+  venue: CHI
+  year: 2022
+  paperurl: https://arxiv.org/abs/2201.06796
