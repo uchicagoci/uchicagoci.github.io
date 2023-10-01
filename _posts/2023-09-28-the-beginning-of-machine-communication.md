@@ -5,6 +5,7 @@ permalink: /posts/2023/09/28/the-beginning-of-machine-communication
 tags:
   - machine communication
   - natural language processing
+excerpt: 'The interplay between human communication and machine computation has been changing drastically for the last hundred years, but the pace has recently accelerated with the first serious contender for a natural language-user other than human beings: the new generation of Large Language Models (LLMs) that have found their way into academic research and deployed product alike.'
 ---
 ​
 The interplay between human communication and machine computation has been changing drastically for the last hundred years, but the pace has recently accelerated with the first serious contender for a natural language-user other than human beings: the new generation of Large Language Models (LLMs) that have found their way into academic research and deployed product alike.
