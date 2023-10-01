@@ -400,3 +400,57 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* ==========================================================================
+   PEOPLE
+   ========================================================================== */
+
+.page__content-people-title {
+  clear: both;
+}
+
+#faculty-list {
+  text-align: center;
+}
+
+.faculty-profile {
+  float: left;
+  width: 190px;
+  
+}
+
+.faculty-image {
+  width: 150px; /* width of container */
+  height: 150px; /* height of container */
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.faculty-name {
+  margin-top: 10px;
+  width: 100%;
+  display: block;
+  color: #000;
+  text-decoration: none !important;
+
+  &:hover {
+    color: $uchicago-maroon;
+    text-decoration: none !important;
+  }
+}
+
+.faculty-email {
+  display: block;
+  color: $dark-gray;
+  text-decoration: none !important;
+  font-family: $monospace;
+  font-size: 0.8em;
+}
+
+.faculty-interest {
+  margin-top: 10px;
+  font-size: 0.8em;
+  line-height: 1.2;
+}

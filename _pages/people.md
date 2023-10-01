@@ -5,8 +5,31 @@ redirect_from:
   - /people.html
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% include base_path %}
 
-# Faculty Members
+<h2 class="page__content page__content-people-title">Faculty Members</h2>
 
-# Postdocs, Students, and Researchers
+<div id="faculty-list">
+  {% for person in site.data.faculty %}
+    <div class="faculty-profile">
+      <img src="{{ person.imageurl }}" class="faculty-image"/>
+      <a href="{{ person.website }}" class="faculty-name">
+        {{ person.name }}
+      </a>
+      <a href="mailto:{{ person.email }}" class="faculty-email">
+        {{ person.email }}
+      </a>
+      <div class="faculty-interest">{{ person.interests }}</div>
+    </div>
+  {% endfor %}
+</div>
+
+<script defer>
+  // randomize order
+  var faculty = document.querySelector('#faculty-list');
+  for (var i = faculty.children.length; i >= 0; i--) {
+      faculty.appendChild(faculty.children[Math.random() * i | 0]);
+  }
+</script>
+
+<h2 class="page__content page__content-people-title">Postdocs, Students, and Researchers</h2>
