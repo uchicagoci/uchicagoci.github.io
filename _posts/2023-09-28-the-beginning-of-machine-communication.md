@@ -8,6 +8,8 @@ tags:
 excerpt: 'The interplay between human communication and machine computation has been changing drastically for the last hundred years, but the pace has recently accelerated with the first serious contender for a natural language-user other than human beings: the new generation of Large Language Models (LLMs) that have found their way into academic research and deployed product alike.'
 ---
 ​
+<!-- TODO/@ari -->
+
 The interplay between human communication and machine computation has been changing drastically for the last hundred years, but the pace has recently accelerated with the first serious contender for a natural language-user other than human beings: the new generation of Large Language Models (LLMs) that have found their way into academic research and deployed product alike.
 ​
 Having a computational model that can wield language, still very imperfectly, is changing the conceptual models we use to think about machine learning models in general.

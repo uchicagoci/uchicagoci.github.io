@@ -9,8 +9,12 @@ redirect_from:
 ---
 
 <!-- center the image -->
-<p align="center">
-  <img src="{{ base_path }}/images/uchicago-stable-diffusion.png" width="200px"/>
+<p class="main-image">
+  <img src="{{ base_path }}/images/uchicago-stable-diffusion.png"/>
 </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<!-- TODO/@chenhao -->
+<!-- TODO/@ari -->
+<!-- TODO/@mina -->
+
+"Welcome to the UChicago NLP Group! 🌟 We're thrilled to have you here, exploring the exciting world of Natural Language Processing with us. Our dynamic team, led by the brilliant faculty members Chenhao Tan, Ari Holtzman, and Mina Lee, is dedicated to pushing the boundaries of NLP research. Join us on this journey as we unravel the mysteries of language and communication. Feel free to browse our research, engage in discussions, and stay updated with the latest advancements. Together, we're shaping the future of NLP!" -- ChatGPT September 25 Version

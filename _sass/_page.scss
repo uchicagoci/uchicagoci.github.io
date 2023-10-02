@@ -476,3 +476,12 @@
   color: $uchicago-maroon;
   text-decoration: none !important;
 }
+
+.main-image {
+  text-align: center;
+
+  img {
+    margin: 20px;
+    width: 300px;
+  }
+}
