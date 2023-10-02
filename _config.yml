@@ -10,8 +10,8 @@ title                    : "UChicago NLP"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://uchicago-nlp.github.io
-baseurl                  : ""
+url                      : "https://minalee-research.github.io/"
+baseurl                  : "uchicago-nlp/"
 repository               : "minalee-research/uchicago-nlp"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
