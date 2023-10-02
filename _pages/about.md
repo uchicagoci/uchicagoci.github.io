@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <!-- center the image -->
 <p class="main-image">
   <img src="{{ base_path }}/images/uchicago-stable-diffusion.png"/>
