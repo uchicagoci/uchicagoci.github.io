@@ -1,9 +1,3 @@
-- name: Chenhao Tan
-  email: chenhao@uchicago.edu
-  website: https://chenhaot.com/
-  imageurl: https://chenhaot.com/theme/images/web_circle_small.jpg
-  interests: TODO/@Chenhao
-
 - name: Ari Holtzman
   email: aholtzman@uchicago.edu
   website: https://nlp2.notion.site/
@@ -16,3 +10,8 @@
   imageurl: https://brushbrushbrushyourteeth.files.wordpress.com/2022/07/md_25-2.jpg
   interests: Writing with AI, Human-Language Model Interaction
 
+- name: Chenhao Tan
+  email: chenhao@uchicago.edu
+  website: https://chenhaot.com/
+  imageurl: https://chenhaot.com/theme/images/web_circle_small.jpg
+  interests: Human-AI collaboration, explanations, interpretability, understanding and improving human decision making, AI-assisted democracy
