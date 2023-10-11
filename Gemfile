@@ -15,6 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+gem "jekyll", "3.9.3" # github-pages was resolved to 228, which depends on jekyll (= 3.9.3)
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
