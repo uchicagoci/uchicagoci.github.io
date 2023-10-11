@@ -410,13 +410,23 @@
 }
 
 #faculty-list {
-  text-align: center;
+  text-align: left;
 }
 
 .faculty-profile {
+  width: 100%;
+}
+
+.faculty-profile-left {
   float: left;
-  width: 190px;
-  
+  width: 150px;
+}
+
+.faculty-profile-right {
+  float: left;
+  width: calc(100% - 150px);
+  padding-left: 25px;
+  margin-bottom: 25px;
 }
 
 .faculty-image {
@@ -434,6 +444,7 @@
   display: block;
   color: #000;
   text-decoration: none !important;
+  font-weight: bold;
 
   &:hover {
     color: $uchicago-maroon;
@@ -442,9 +453,7 @@
 
 .faculty-email {
   display: block;
-  color: $dark-gray;
   text-decoration: none !important;
-  font-family: $monospace;
   font-size: 0.8em;
 }
 
@@ -452,6 +461,11 @@
   margin-top: 10px;
   font-size: 0.8em;
   line-height: 1.2;
+}
+
+.faculty-interest-item {
+  display: block;
+  margin-bottom: 5px;
 }
 
 /* ==========================================================================
