@@ -473,6 +473,7 @@
    ========================================================================== */
 
 .publication {
+  margin-top: 5px;
   margin-bottom: 20px;
 }
 
@@ -480,6 +481,7 @@
   display: block;
   color: #000;
   text-decoration: none !important;
+  font-weight: bold;
 
   &:hover {
     color: $uchicago-maroon;

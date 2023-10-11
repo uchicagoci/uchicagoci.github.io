@@ -1,16 +1,21 @@
 # TODO/@chenhao
 # TODO/@ari
-# TODO/@mina
+
 - title: Evaluating Human-Language Model Interaction
   authors: Mina Lee, Megha Srivastava, Amelia Hardy, John Tickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang
-  venue: TMLR
+  venue: Transcations of Machine Learning Research (TMLR), 2023
   year: 2023
   paperurl: http://arxiv.org/abs/2212.09746
 
+- title: Towards Explainable AI Writing Assistants for Non-native English Speakers
+  authors: Yewon Kim, Mina Lee, Donghwi Kim, Sung-Ju Lee
+  venue: Workshop on Intelligent and Interactive Writing Assistants (In2Writing), 2023
+  year: 2023
+  paperurl: https://arxiv.org/abs/2108.07258
+
 - title: "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities"
   authors: Mina Lee, Percy Liang, Qian Yang
-  venue: CHI
+  venue: Conference on Human Factors in Computing Systems (CHI), 2022
   year: 2022
   paperurl: https://arxiv.org/abs/2201.06796
-
-
+  note: Honorable mention award
