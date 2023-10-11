@@ -11,7 +11,7 @@
 ## To publish (on GitHub Pagees)
 
 1. Commit and push the changes to the `main` branch
-2. Run `./publish.sh` to publish the changes to the `gh-pages` branch (TODO)
+2. Run `./publish.sh` to publish the changes to the `gh-pages` branch
 
 # Development
 
