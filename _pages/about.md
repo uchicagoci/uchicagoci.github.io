@@ -14,3 +14,8 @@ We believe that NLP has entered a new era, and we are primarily interested in th
 * Characterizing, explaining, and controlling AI behavior
 * Empowering and enhancing humans
 * Ecosystems of humans and AI
+
+<a class="twitter-timeline" href="https://twitter.com/ChicagoNLP?ref_src=twsrc%5Etfw">Tweets by ChicagoNLP</a> 
+<div class="twitter-timeline-wrapper">
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

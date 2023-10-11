@@ -485,3 +485,19 @@
     width: 300px;
   }
 }
+
+/* ==========================================================================
+   ABOUT
+   ========================================================================== */
+
+.twitter-timeline {
+  margin-top: 50px !important;
+  max-height: 500px !important;
+  overflow: scroll !important;
+  -ms-overflow-style: none !important;  /* Internet Explorer 10+ */
+  scrollbar-width: none !important;  /* Firefox */
+}
+
+.twitter-timeline::-webkit-scrollbar { 
+  display: none !important;  /* Safari and Chrome */
+}
