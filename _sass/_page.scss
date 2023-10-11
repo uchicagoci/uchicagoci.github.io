@@ -490,7 +490,8 @@
 
 .read-more {
   color: $uchicago-maroon;
-  text-decoration: none !important;
+  text-decoration: underline !important;
+  padding-left: 10px;
 }
 
 .main-image {
