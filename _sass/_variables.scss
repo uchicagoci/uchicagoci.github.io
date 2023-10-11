@@ -28,9 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $serif;
-$caption-font-family        : $serif;
+$global-font-family         : $helvetica;
+$header-font-family         : $helvetica;
+$caption-font-family        : $helvetica;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -51,6 +51,7 @@ $uchicago-maroon            : #800000;
 $uchicago-yellow            : #FFB547;
 
 $white                      : #fff;
+$black                      : #000; 
 $gray                       : #7a8288;
 $dark-gray                  : #767676;
 $light-gray                 : #D6D6CE;
@@ -61,7 +62,7 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $black;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
