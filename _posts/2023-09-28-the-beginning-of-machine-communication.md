@@ -22,7 +22,7 @@ Similarly, the study of the computational manipulation of language has been desc
 <br>
 In the past much of 'Artificial Intelligence' was framed as trying to get machines to do what humans do so easily, to complement machines' ability to do repetitive, precise tasks. Trying to simulate humans has often led to mixed results, especially since the mechanisms by which machines produce human like behavior is often different by necessity. 
 <br>
-Perhaps direct simulation of humans, and trying to measure it, is missing the point: LLMs and other generative models can take natural language input from normal humans, but also have the ability to do things that most humans can't do, such as pass high-level Legal and Economic exams (cite) or generate paintings across a range of styles that most humans would struggle to cover.
+Perhaps direct simulation of humans, and trying to measure it, is missing the point: LLMs and other generative models can take natural language input from normal humans, but also have the ability to do things that most humans can't do, such as pass high-level exams such as the Bar (Katz et al. 2023)  or generate paintings across a range of styles that most humans would struggle to cover.
 <br>
 As generative models improve, it becomes possible to explore not just human behavior, but what kind of behavior humans can make use of, but could never produce on their own: *human accomodateable behavior*. In doing this, we also end-up exploring what kind of behavior humans can't contend with, uncollaborative behavior produced by models that don't properly capture what it means to work with humans. This back and forth can allow us to explore a new question: *What kinds of cooperation humans want that have been difficult or impossible to setup before machines were capable of more organic communication?*
 <br>
@@ -33,7 +33,7 @@ A problem arises when trying to study something as abstract as communication or 
 This happens wherever we lack a method for measuring precisely what we want to study. For instance, there used to be a question in one corner of biology: How do bats avoid collisions when they're all emerging from their cave by the thousands? Researchers took high speed cameras to bat caves and found a very simple answer: they don't avoid collisions. Bats run into each other all the time. It was the assumption of the researchers that, because bats were largely not found lying dead on the ground, there were very few collisions—the hidden assumption being the collisions must lead to fatalities, rather than being handled elegantly when they occur.
 <br>
 ![A photograph of a high-speed camera in the process of taking a video of bats emerging from a cave. The situation appears messy, chaotic, and fast.](2023-09-28-the-beginning-of-machine-communication_resources/bat_collisions.png)
-*Figure 2: Biologists taking high-speed photographs of bats emerging from their cave.*
+*Figure 2: Biologists taking high-speed photographs of bats emerging from their cave. From _Lens of Time: Bat Ballet_ produced by Spine Films.
 <br>
 In studying how machines can communicate with humans using natural language (and even with each other), we run a similar risk: assuming that machines are good at doing something because they avoid an expected failure mode that humans have. Yet machines, have a wonderful advantage as an object of study: because we have perfect, mechanical representations of how computational models operate we can directly study how machines produce the language they do in various situations, and how that language would change given a slightly different situation, or even a slightly different machine. We can causally (and casually) perturb machine communication in a way that is impossible to do with humans directly.
 ## What new questions are worth asking?
@@ -48,4 +48,7 @@ While software has allowed people to process data and communicate with each othe
 We may begin to invent better ways to organize complex and even creative task among a large number of agents, and we may further be able to ask: *What were the strategies humans had been using previously, that we found so difficult to formalize before we had machines to compare them to?*
 <br>
 ### Cited Works
-Films, Spine. n.d. “Lens of Time: Bat Ballet.” bioGraphic. Accessed August 21, 2023. https://www.biographic.com/lens-of-time-bat-ballet/.
+
+Spine Films. 2016. “Lens of Time: Bat Ballet.” bioGraphic. Accessed August 21, 2023. https://www.biographic.com/lens-of-time-bat-ballet/.
+
+Katz, Daniel Martin, Michael James Bommarito, Shang Gao, and Pablo Arredondo. 2023. “GPT-4 Passes the Bar Exam.” https://doi.org/10.2139/ssrn.4389233.

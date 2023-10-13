@@ -1,5 +1,22 @@
 # TODO/@chenhao
-# TODO/@ari
+
+- title: "Generative Models as a Complex Systems Science: How can we make sense of language model behavior?"
+  authors: Ari Holtzman, Peter West, Luke Zettlemoyer
+  venue: Arxiv
+  year: 2023
+  paperurl: https://arxiv.org/abs/2308.00189 
+
+- title: "QLoRA: Efficient Finetuning of Quantized LLMs"
+  authors: Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
+  venue: NeurIPs, 2023
+  year: 2023
+  paperurl: https://arxiv.org/abs/2305.14314 
+
+- title: "Contrastive Decoding: Open-ended Text Generation as Optimization"
+  authors: Xiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis
+  venue: ACL, 2023
+  year: 2023
+  paperurl: https://arxiv.org/abs/2210.15097
 
 - title: Evaluating Human-Language Model Interaction
   authors: Mina Lee, Megha Srivastava, Amelia Hardy, John Tickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang
