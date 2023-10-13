@@ -1,8 +1,45 @@
-# TODO/@chenhao
+
+- title: "Causal Reasoning and Large Language Models: Opening a New Frontier for Causality"
+  authors: Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
+  venue: arXiv
+  year: 2023
+  paperurl: https://arxiv.org/abs/2305.00050
+
+
+- title: "Machine Explanations and Human Understanding"
+  authors: Chacha Chen, Shi Feng, Amit Sharma, Chenhao Tan
+  venue: TMLR; FAccT
+  year: 2023
+  paperurl: https://arxiv.org/abs/2202.04092
+
+- title: "Selective Explanations: Leveraging Human Input to Align Explainable AI"
+  authors: Vivian Lai, Yiming Zhang, Chacha Chen, Q. Vera Liao, Chenhao Tan
+  venue: CSCW
+  year: 2023
+  paperurl: https://arxiv.org/abs/2301.09656
+
+- title: "Learning Human-Compatible Representations for Case-Based Decision Support"
+  authors: Han Liu, Yizhou Tian, Chacha Chen, Shi Feng, Yuxin Chen, Chenhao Tan
+  venue: ICLR
+  year: 2023
+  paperurl: https://arxiv.org/abs/2303.04809
+
+
+- title: "Language of Bargaining"
+  authors: Mourad Heddaya, Solomon Dworkin, Chenhao Tan, Rob Voigt, Alexander Zentefis
+  venue: ACL
+  year: 2023
+  paperurl: https://arxiv.org/abs/2306.07117
+
+- title: "FLamE: Few-shot Learning from Natural Language Explanations"
+  authors: Yangqiaoyu Zhou, Yiming Zhang, Chenhao Tan
+  venue: ACL
+  year: 2023
+  paperurl: https://arxiv.org/abs/2306.08042
 
 - title: "Generative Models as a Complex Systems Science: How can we make sense of language model behavior?"
   authors: Ari Holtzman, Peter West, Luke Zettlemoyer
-  venue: Arxiv
+  venue: arXiv
   year: 2023
   paperurl: https://arxiv.org/abs/2308.00189 
 
@@ -36,3 +73,52 @@
   year: 2022
   paperurl: https://arxiv.org/abs/2201.06796
   note: Honorable mention award
+
+
+- title: "Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation"
+  authors: Vivian Lai, Samuel Carton, Rajat Bhatnagar, Q. Vera Liao, Yunfeng Zhang, Chenhao Tan
+  venue: CHI
+  year: 2022
+  paperurl: https://arxiv.org/abs/2204.11788
+
+
+- title: "Decision-Focused Summarization"
+  authors: Chao-Chun Hsu, Chenhao Tan
+  venue: EMNLP
+  year: 2021
+  paperurl: https://arxiv.org/abs/2109.06896
+
+- title: "Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations"
+  authors: Ramaravind Kommiya Mothilal, Amit Sharma, Chenhao Tan
+  venue: FAccT
+  year: 2020
+  paperurl: https://arxiv.org/abs/1905.07697
+
+
+- title: "On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection"
+  authors: Vivian Lai, Chenhao Tan
+  venue: FAccT
+  year: 2019
+  paperurl: https://arxiv.org/abs/1811.07901
+
+
+- title: "Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories"
+  authors: Elizabeth Clark, Anne Ross, Chenhao Tan, Yangfeng Ji, Noah A. Smith
+  venue: IUI
+  year: 2018
+  paperurl: https://chenhaot.com/papers/creative-writing-with-a-machine-in-the-loop.html
+
+
+- title: "Friendships, Rivalries, and Trysts: Characterizing Relations between Ideas in Texts"
+  authors: Chenhao Tan, Dallas Card, Noah A. Smith
+  venue: ACL
+  year: 2017
+  paperurl: https://chenhaot.com/papers/idea-relations.html
+
+
+- title: "Winning Arguments: Interaction Dynamics and Persuasion Strategies in Good-faith Online Discussions"
+  authors: Chenhao Tan, Vlad Niculae, Cristian Danescu-Niculescu-Mizil, Lillian Lee
+  venue: WWW
+  year: 2016
+  paperurl: https://chenhaot.com/papers/changemyview.html
+
