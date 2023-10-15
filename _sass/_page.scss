@@ -468,6 +468,49 @@
   margin-bottom: 5px;
 }
 
+#student-list {
+  text-align: top;
+}
+
+.student-profile {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.student-profile-top {
+  width: 200px;
+  height: auto; 
+  text-align: center;
+}
+
+.student-profile-bottom {
+  margin-bottom: 25px;
+}
+
+.student-image {
+  width: 150px; /* width of container */
+  height: 150px; /* height of container */
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.student-name {
+  margin-top: 10px;
+  width: 100%;
+  display: block;
+  color: #000;
+  text-decoration: none !important;
+  font-weight: bold;
+
+  &:hover {
+    color: $uchicago-maroon;
+  }
+}
+
 /* ==========================================================================
    PUBLICATION
    ========================================================================== */

@@ -35,3 +35,17 @@ redirect_from:
 </div>
 
 <h2 class="page__content page__content-people-title">Postdocs, Students, and Researchers</h2>
+<div id="student-list">
+  {% for person in site.data.students %}
+    <div class="student-profile">
+      <div class="student-profile-top">
+        <img src="{{ person.imageurl }}" class="student-image"/>
+      </div>
+      <div class="student-profile-bottom">
+        <a href="{{ person.website }}" class="student-name">
+          {{ person.name }}
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
