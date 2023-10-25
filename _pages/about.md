@@ -16,7 +16,7 @@ Currently, we’re a team of three human PIs—[Ari Holtzman](https://nlp2.notio
 * Empowering and enhancing human capabilities through new interactions and interfaces 
 * Studying the effect, potential, and hazards of information ecosystems consisting of humans and AI models.
 
-<a class="twitter-timeline" href="https://twitter.com/UChicagoCI">Tweets by UChicago C&I</a> 
+<a class="twitter-timeline" href="https://twitter.com/UChicagoCI?ref_src=twsrc%5Etfw">Tweets by UChicago C&I</a> 
 <div class="twitter-timeline-wrapper">
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
