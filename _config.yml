@@ -8,11 +8,11 @@
 locale                   : "en-US"
 title                    : "UChicago C&I"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://minalee-research.github.io"
-baseurl                  : "/uchicago-nlp"
-repository               : "minalee-research/uchicago-nlp"
+name                     : &name "UChicago C&I"
+description              : &description "The UChicago Communication & Intelligence (C&I) group"
+url                      : "https://uchicagoci.github.io"
+baseurl                  : 
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ChicagoNLP"
+  username               : &twitter "UChicagoCI"
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ChicagoNLP"
+  twitter          : "UChicagoCI"
   vine             :
   weibo            :
   xing             :
