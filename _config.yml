@@ -10,7 +10,7 @@ title                    : "UChicago C&I"
 title_separator          : "-"
 name                     : &name "UChicago C&I"
 description              : &description "The UChicago Communication & Intelligence (C&I) group"
-url                      : "https://uchicagoci.github.io"
+url                      : "https://ci.cs.uchicago.edu/"
 baseurl                  : 
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
