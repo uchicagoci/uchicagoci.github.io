@@ -1,0 +1,26 @@
+
+<div class="shortcode-grid" style="display:grid;grid-template-columns:auto 1fr;gap:.5rem">
+  {% for item in site.data.symposium-2024-schedule %}
+    <time>{{ item.time }}</time>
+    <article>
+      {% if item.event.speaker %}
+        <div><strong>{{ item.event.speaker }}</strong></div>
+        <div><em>{{ item.event.title }}</em></div>
+        {% if item.event.bio %}
+          <details>
+            <summary>Speaker Bio</summary>
+            <p>{{ item.event.bio }}</p>
+          </details>
+        {% endif %}
+        {% if item.event.abstract %}
+          <details>
+            <summary>Abstract</summary>
+            <p>{{ item.event.abstract }}</p>
+          </details>
+        {% endif %}
+      {% else %}
+        {{ item.event }}
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>

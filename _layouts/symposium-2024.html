@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<style>
+    .speaker-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 20px;
+        padding: 20px;
+    }
+    .speaker-item {
+        text-align: center;
+    }
+    .speaker-item img {
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+        margin-bottom: 10px;
+    }
+
+    .shortcode-grid {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1rem;
+      max-width: 800px;
+      margin: 0 auto;
+      font-family: Arial, sans-serif;
+    }
+    
+    .shortcode-grid time {
+      font-weight: bold;
+      color: #555;
+      padding-right: 1rem;
+      text-align: right;
+      white-space: nowrap;
+    }
+    
+    .shortcode-grid article {
+      border-left: 2px solid #ddd;
+      padding-left: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .shortcode-grid article strong {
+      font-size: 1.1em;
+      color: #333;
+    }
+    
+    .shortcode-grid article em {
+      font-style: italic;
+      color: #666;
+    }
+    
+    .shortcode-grid details {
+      margin-top: 0.5rem;
+    }
+    
+    .shortcode-grid summary {
+      cursor: pointer;
+      color: #0066cc;
+      font-weight: bold;
+    }
+    
+    .shortcode-grid details p {
+      margin-top: 0.5rem;
+      line-height: 1.5;
+      color: #444;
+    }
+    
+    @media (max-width: 600px) {
+      .shortcode-grid {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+      }
+    
+      .shortcode-grid time {
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 0.25rem;
+        font-family: inconsolata;
+      }
+    
+      .shortcode-grid article {
+        border-left: none;
+        padding-left: 0;
+        font-family: inconsolata;
+      }
+    }
+
+</style>
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  <!-- {% include sidebar.html %} -->
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+</div>
+
