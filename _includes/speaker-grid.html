@@ -1,0 +1,10 @@
+{% assign speakers = include.speakers | default: site.data.symposium-2024-speakers %}
+<div class="speaker-grid">
+    {% for speaker in speakers %}
+    <div class="speaker-item">
+        <img src="{{ speaker.imageurl }}" alt="{{ speaker.name }}">
+        <h3>{{ speaker.name }}</h3>
+        <p>{{ speaker.role }}</p>
+    </div>
+    {% endfor %}
+</div>

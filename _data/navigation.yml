@@ -10,3 +10,6 @@ main:
         
   - title: "Blog"
     url: /blog/
+        
+  - title: "Symposium"
+    url: /symposium/

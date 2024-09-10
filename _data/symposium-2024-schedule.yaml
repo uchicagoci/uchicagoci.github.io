@@ -1,0 +1,42 @@
+- time: "08:30 - 09:00"
+  event: "Breakfast"
+
+- time: "09:00 - 09:05"
+  event: "Welcome"
+
+- time: "09:05 - 09:55"
+  event:
+    speaker: "Claire Cardie"
+    title: "TBD"
+
+- time: "09:55 - 10:45"
+  event:
+    speaker: "Chi Wang"
+    title: "TBD"
+
+- time: "10:45 - 11:35"
+  event:
+    speaker: "Greg Durett"
+    title: "TBD"
+
+- time: "11:35 - 01:00"
+  event: "Lunch / Poster session"
+
+- time: "01:00 - 01:50"
+  event:
+    speaker: "Chris Callison-Burch"
+    title: "TBD"
+
+- time: "01:50 - 03:10"
+  event:
+    speaker: "He He"
+    title: "TBD"
+
+- time: "03:10 - 03:30"
+  event: "Break"
+
+- time: "03:30 - 04:45"
+  event: "Panel Discussion"
+
+- time: "04:45 - 5:00"
+  event: "Concluding Thoughts"
