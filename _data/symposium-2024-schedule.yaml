@@ -4,22 +4,25 @@
 - time: "09:00 - 09:05"
   event: "Welcome"
 
-- time: "09:05 - 09:55"
-  event:
-    speaker: "Claire Cardie"
-    title: "TBD"
-
-- time: "09:55 - 10:45"
+- time: "09:05 - 10:00"
   event:
     speaker: "Chi Wang"
     title: "TBD"
 
-- time: "10:45 - 11:35"
+- time: "09:55 - 10:45"
+  event:
+    speaker: "Claire Cardie"
+    title: "TBD"
+ 
+- time: "10:45 - 11:00"
+  event: "Break"
+
+- time: "11:00 - 11:50"
   event:
     speaker: "Greg Durrett"
     title: "TBD"
 
-- time: "11:35 - 01:00"
+- time: "11:50 - 01:00"
   event: "Lunch / Poster session"
 
 - time: "01:00 - 01:50"
@@ -36,7 +39,7 @@
   event: "Break"
 
 - time: "03:10 - 04:40"
-  event: "Panel Discussion"
+  event: 'Panel on "Transparent Tools vs. Cooperative Collaborators: What role should language systems play?"'
 
 - time: "04:40 - 5:00"
   event: "Concluding Thoughts"
