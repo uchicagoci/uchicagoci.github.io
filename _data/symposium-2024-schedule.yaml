@@ -7,7 +7,8 @@
 - time: "09:05 - 10:00"
   event:
     speaker: "Chi Wang"
-    title: "TBD"
+    title: "Agentic AI Frameworks & AutoGen"
+    abstract: "What are future AI applications like and how do we empower every developer to build them? This talk will discuss the trend of agentic AI and the core design considerations of agentic AI programming frameworks. It will then dive into a pioneering attempt, AutoGen, covering the key concepts, how it is applied across a broad spectrum of tasks and industries, and recent research progress. It ends with open questions."
 
 - time: "09:55 - 10:45"
   event:
@@ -20,7 +21,9 @@
 - time: "11:00 - 11:50"
   event:
     speaker: "Greg Durrett"
-    title: "TBD"
+    title: "Specializing LLMs for Factuality and Soft Reasoning"
+    abstract: "Proponents of LLM scaling assert that training a giant model on as much data as possible can eventually solve most language tasks, perhaps even leading to AGI. However, frontier LLMs still fall short on complex problems in long-tail domains. Errors occur somewhere in the process of encoding the necessary knowledge, surfacing it for a specific prompt, and synthesizing it with other input data. In this talk, I will argue that specialization is the right approach to improve LLMs here; that is, modifying them through training or other means to improve their factuality and reasoning capabilities. First, I will show that specialization is necessary: inference-only approaches like chain-of-thought prompting are not sufficient. Second, I will present our fact-checking system MiniCheck, which is fine-tuned on specialized data to detect factual errors in LLM responses, leading to a better detector than frontier models like GPT-4. Finally, I will discuss how to specialize LLMs to be better at logical reasoning. I argue that we need (a) better fine-tuning methods which make targeted adjustments to model behavior; (b) improved inference capabilities, such as a differentiable theorem prover that can be plugged into a standard Transformer. These forms of specialization represent a path towards fundamentally new capabilities in factuality and reasoning beyond what can be achieved in current models."
+    bio: "Greg Durrett is an associate professor of Computer Science at UT Austin. He received his BS in Computer Science and Mathematics from MIT and his PhD in Computer Science from UC Berkeley, where he was advised by Dan Klein. His research is broadly in the areas of natural language processing and machine learning. Currently, his group's focus is on techniques for reasoning about knowledge in text, verifying factuality of LLM generations, and building systems using LLMs as primitives. He is a 2023 Sloan Research Fellow and a recipient of a 2022 NSF CAREER award. He has co-organized the Workshop on Natural Language Reasoning and Structured Explanations at ACL 2023 and ACL 2024, as well as workshops on low-resource NLP and NLP for programming. He has served in numerous roles for *CL conferences, including as a member of the NAACL Board since 2024."
 
 - time: "11:50 - 01:00"
   event: "Lunch / Poster session"
@@ -28,12 +31,22 @@
 - time: "01:00 - 01:50"
   event:
     speaker: "Chris Callison-Burch"
-    title: "TBD"
+    title: "Using Large Language Models to Build Explainable Classifiers"
+    abstract: |
+         This presentation discusses research on using large language models (LLMs) to build explainable classifiers. It will show off work from my PhD students and collaborators on several recent research directions:<br>
+         - Image classification with explainable features ([arxiv.org/abs/2211.11158](https://arxiv.org/abs/2211.11158))<br>
+         - Text classification with explainable features (work in progress)<br>
+         - The importance of faithfulness in explanations ([arxiv.org/abs/2209.11326](https://arxiv.org/abs/2209.11326))<br>
+         - A faithful "chain of thought" LLM reasoner that produces code in its explanations ([arxiv.org/abs/2301.13379](https://arxiv.org/abs/2301.13379))<br>
+         
+         The talk will cover joint work with: Adam Stein, Ajay Patel, Ansh Kothary, Artemis Panagopoulou, Daniel Jin, Delip Rao, Eric Wong, Harry Li Zhang, Kathleen McKeown, Marianna Apidianaki, Mark Yatskar, Shenghao Zhou, Shreya Havaldar, Veronica Qing Lyu, Yue Yang, and others.
+    bio: "Chris Callison-Burch is a Professor of Computer and Information Science at the University of Pennsylvania. His course on Artificial Intelligence has one of the highest enrollments at the university with over 500 students taking the class each Fall. He is best known for his research into natural language processing. His current research is focused on applications of large language models to long-standing challenges in artificial intelligence. His PhD students joke that now whenever they ask him anything his first response is “Have you tried GPT for that?” Prof Callison-Burch has more than 150 publications, which have been cited over 25,000 times. He is a Sloan Research Fellow, and he has received faculty research awards from Google, Microsoft, Amazon, Facebook, and Roblox, in addition to funding from DARPA, IARPA, and the NSF."
 
 - time: "01:50 - 02:40"
   event:
     speaker: "He He"
-    title: "TBD"
+    title: "Unintended Consequences of Human Feedback in Language Model Alignment"
+    abstract: "The alignment of large language models (LLMs) with human values is increasingly guided by human feedback, but this process is not without risks. In this talk, I will explore two critical aspects of human-in-the-loop training for LLMs. First, I will show how reinforcement learning from human feedback (RLHF) unintentionally teaches models to be more persuasive rather than accurate, making it difficult for humans to verify their answers. Second, I will show that post-training potentially dilutes diverse preferences of various human groups. Together, these two results underscore the importance of rethinking how and from whom we collect feedback to ensure robust and fair AI systems."
 
 - time: "02:40 - 03:10"
   event: "Break"
