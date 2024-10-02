@@ -9,6 +9,7 @@
     speaker: "Chi Wang"
     title: "Agentic AI Frameworks & AutoGen"
     abstract: "What are future AI applications like and how do we empower every developer to build them? This talk will discuss the trend of agentic AI and the core design considerations of agentic AI programming frameworks. It will then dive into a pioneering attempt, AutoGen, covering the key concepts, how it is applied across a broad spectrum of tasks and industries, and recent research progress. It ends with open questions."
+    bio: "Chi is the founder of AutoGen, a popular and rapidly growing open-source framework for agentic AI, with multiple awards such as best paper of ICLR’24 LLM Agents Workshop, Open100, and TheSequence’s pick of 5 favorite AI papers in 2023. His work is covered by Forbes, The Economist, WIRED etc. Chi is also the founder of FLAML, a fast open-source library for AutoML & tuning used widely by Microsoft, Google, Amazon, Databricks etc. Chi has 15+ years of research experience in Computer Science and work experience in Google DeepMind, Microsoft Research and Meta. Chi has a PhD in Computer Science from University of Illinois at Urbana-Champaign (with a SIGKDD Data Science/Data Mining PhD Dissertation Award), and a BS in Computer Science from Tsinghua University."
 
 - time: "09:55 - 10:45"
   event:
