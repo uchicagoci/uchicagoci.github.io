@@ -12,11 +12,6 @@ This symposium is a place to discuss how to think about the intertwining of Comm
 ## Invited Speakers
 {% include speaker-grid.html %}
 
-## Registration
-If you plan to attend, please fill out <a href='https://docs.google.com/forms/d/e/1FAIpQLSdttrYOMDGvdfma-zQA-BGLyU8ZkLVMzxzpg7r7hCl4Y_qeWQ/viewform?usp=pp_url'>this one-minute survey</a>. Registration is free, but we need to how much food to buy. Breaking bread together is still the uniquely human way to communicate engagement.
-
-Please register here by October 5th.
-
 ## Call for poster presentations
 
 We invite all researchers and practitioners to submit poster presentations for the Symposium on Communication & Intelligence. This is an opportunity to showcase your work, share insights, and engage in discussions about the intersection of AI and human communication. We are particularly interested in presentations that examine opportunities and challenges to achieve complementary and beneficent AI. Automation will happen inevitably—but where are the opportunities for symbiosis?
