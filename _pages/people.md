@@ -46,6 +46,27 @@ redirect_from:
           {{ person.name }}
         </a>
       </div>
+        <div> 
+        ( {{ person.note }} )
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<h2 class="page__content page__content-people-title">Past Members</h2>
+<div id="student-list">
+  {% for person in site.data.past-members %}
+    <div class="student-profile">
+      <div class="student-profile-top">
+        <img src="{{ person.imageurl }}" class="student-image"/>
+      </div>
+      <div class="student-profile-bottom">
+        <a href="{{ person.website }}" class="student-name">
+          {{ person.name }}         </a>
+      </div>
+        <div> 
+        ( {{ person.note }} )
+      </div>
     </div>
   {% endfor %}
 </div>
