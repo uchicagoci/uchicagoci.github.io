@@ -1,52 +1,52 @@
 - name: Jingchao Fang
   website: https://jc-fang.github.io/
   imageurl: /images/photos/jingchao_fang.png
-  note: Postdoc (hosted by Mina Lee)
+  note: Postdoc (hosted by Mina)
 
 - name: Julia Mendelsohn
   website: https://juliamendelsohn.github.io/
   imageurl: /images/photos/julia_mendelsohn.png
-  note: Postdoc (hosted by Chenhao Tan)
+  note: Postdoc (hosted by Chenhao)
 
 - name: Xiaoyan Bai
   website: https://elena-baixy.github.io/
   imageurl: /images/photos/xiaoyan_bai.jpg
-  note: PhD 2024 (advised by Chenhao Tan)
+  note: PhD 2024 (advised by Chenhao)
 
 - name: Dang Nguyen
   website: https://dangng2004.github.io/
   imageurl: https://chicagohai.github.io/images/people/dang_nguyen.png
-  note: PhD 2024 (advised by Chenhao Tan)
+  note: PhD 2024 (advised by Chenhao)
 
 - name: Grace Li
   website: https://www.grace-li.org/
   imageurl: /images/photos/grace_li.jpeg
-  note: PhD 2024 (advised by Mina Lee)
+  note: PhD 2024 (advised by Mina)
 
 - name: Yichen (Zach) Wang
   website: https://yichenzw.com/
   imageurl: /images/photos/yichen_wang.jpg
-  note: PhD 2024 (advised by Mina Lee and Ari Holtzman)
+  note: PhD 2024 (advised by Mina and Ari)
 
 - name: Jiayin Zhi
   website: https://jzhi.app/
   imageurl: https://framerusercontent.com/images/E3Wn1OGLvGBeYwB2gCEC6WmmNQE.png?scale-down-to=512
-  note: PhD 2024 (advised by Mina Lee)
+  note: PhD 2024 (advised by Mina)
 
 - name: (Harvey) Yiyun Fu
   website: https://harvey-fin.github.io/
   imageurl: https://harvey-fin.github.io/img/harvey-fu-2023.png
-  note: PhD 2024 (advised by Ari Holtzman)
+  note: PhD 2024 (advised by Ari)
 
 - name: Todd Nief
   website: https://toddnief.com/about/
   imageurl: https://toddnief.com/wp-content/uploads/2020/07/Todd-SLSC-300x300.jpg.webp
-  note: PhD 2024 (advised by Ari Holtzman)
+  note: PhD 2024 (advised by Ari)
 
 - name: Chenghao (Alan) Yang
   website: https://yangalan123.github.io/
   imageurl: https://yangalan123.github.io/assets/img/personal_image.jpg
-  note: PhD 2022 (advised by Ari Holtzman (from 2024), and Allyson Ettinger (till 2024))
+  note: PhD 2022 (advised by Ari (from 2024), and Allyson Ettinger (till 2024))
 
 - name: Lalchand Pandia
   website: https://lalchandpandia.github.io/
@@ -61,22 +61,32 @@
 - name: Chacha Chen
   website: https://chacha-chen.github.io/
   imageurl: https://chicagohai.github.io/images/people/chacha_chen.jpg
-  note: PhD 2021 (advised by Chenhao Tan)
+  note: PhD 2021 (advised by Chenhao)
 
 - name: Mourad Heddaya
   website: https://mheddaya.com/
   imageurl: /images/photos/mourad_heddaya.png
-  note: PhD 2021 (advised by Chenhao Tan)
+  note: PhD 2021 (advised by Chenhao)
 
 - name: Karen Zhou
   website: https://karen-zhou.com/
   imageurl: https://chicagohai.github.io/images/people/karen_zhou.jpg
-  note: PhD 2021 (advised by Chenhao Tan)
+  note: PhD 2021 (advised by Chenhao)
+
+- name: Haokun Liu
+  website: https://haokunliu.com/
+  imageurl: https://chicagohai.github.io/images/people/haokun_liu.jpg
+  note: PhD 2021 (advised by Chenhao)
 
 - name: Yangqiaoyu (Rosa) Zhou
   website: https://rosafish.github.io/
   imageurl: https://chicagohai.github.io/images/people/rosa_zhou.png
-  note: PhD 2020 (advised by Chenhao Tan)
+  note: PhD 2020 (advised by Chenhao)
+
+- name: Yi Wu
+  website: https://ethanyiwu.github.io/
+  imageurl: https://chicagohai.github.io/images/people/hanyi_wu.jpg
+  note: MS 2025 (advised by Chenhao)
 
 - name: Obi Obetta
   website: https://theworldofobi.github.io/
