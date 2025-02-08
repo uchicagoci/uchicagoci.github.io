@@ -1,10 +1,45 @@
+- title: "Mitigating Memorization in Language Models"
+  authors: Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Nathaniel Hudson, Caleb Geniesse, Kyle Chard, Yaoqing Yang, Ian Foster, Michael Mahoney
+  venue: arXiv
+  year: 2025
+  paperurl: https://arxiv.org/abs/2410.02159
+
+- title: "CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions"
+  authors: Mourad Heddaya, Kyle MacMillan, Anup Malani, Hongyuan Mei, Chenhao Tan
+  venue: NAACL
+  year: 2025
+  paperurl: https://arxiv.org/abs/2501.00097
+
+- title: "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints"
+  authors: Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, Yuxin Chen
+  venue: ICLR
+  year: 2024
+  paperurl: https://arxiv.org/abs/2309.16240
+  note: Spotlight
+
+- title: "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models"
+  authors: Yanhong Li*, Chenghao Yang*, Allyson Ettinger
+  venue: NAACL Findings
+  year: 2024
+  paperurl: https://arxiv.org/abs/2404.09129
+
+- title: "Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts"
+  authors: Chenghao Yang, Tuhin Chakrabarty, Karli R Hochstatter, Melissa N Slavin, Nabila El-Bassel, Smaranda Muresan
+  venue: NAACL Findings
+  year: 2024
+  paperurl: https://arxiv.org/abs/2311.09066
+
+- title: "Causal Micro-Narratives"
+  authors: Mourad Heddaya, Qingcheng Zeng, Alexander Zentefis, Rob Voigt, Chenhao Tan
+  venue: EMNLP Workshop on Narrative Understanding (WNU)
+  year: 2024
+  paperurl: https://aclanthology.org/2024.wnu-1.12/
 
 - title: "Causal Reasoning and Large Language Models: Opening a New Frontier for Causality"
   authors: Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
   venue: arXiv
   year: 2023
   paperurl: https://arxiv.org/abs/2305.00050
-
 
 - title: "Machine Explanations and Human Understanding"
   authors: Chacha Chen, Shi Feng, Amit Sharma, Chenhao Tan
@@ -24,7 +59,6 @@
   year: 2023
   paperurl: https://arxiv.org/abs/2303.04809
 
-
 - title: "Language of Bargaining"
   authors: Mourad Heddaya, Solomon Dworkin, Chenhao Tan, Rob Voigt, Alexander Zentefis
   venue: ACL
@@ -41,31 +75,51 @@
   authors: Ari Holtzman, Peter West, Luke Zettlemoyer
   venue: arXiv
   year: 2023
-  paperurl: https://arxiv.org/abs/2308.00189 
+  paperurl: https://arxiv.org/abs/2308.00189
 
 - title: "QLoRA: Efficient Finetuning of Quantized LLMs"
   authors: Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, Luke Zettlemoyer
-  venue: NeurIPs, 2023
+  venue: NeurIPS
   year: 2023
-  paperurl: https://arxiv.org/abs/2305.14314 
+  paperurl: https://arxiv.org/abs/2305.14314
 
 - title: "Contrastive Decoding: Open-ended Text Generation as Optimization"
   authors: Xiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis
-  venue: ACL, 2023
+  venue: ACL
   year: 2023
   paperurl: https://arxiv.org/abs/2210.15097
 
-- title: Evaluating Human-Language Model Interaction
+- title: "Evaluating Human-Language Model Interaction"
   authors: Mina Lee, Megha Srivastava, Amelia Hardy, John Tickstun, Esin Durmus, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E. Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang
   venue: Transcations of Machine Learning Research (TMLR), 2023
   year: 2023
   paperurl: http://arxiv.org/abs/2212.09746
 
-- title: Towards Explainable AI Writing Assistants for Non-native English Speakers
+- title: "Towards Explainable AI Writing Assistants for Non-native English Speakers"
   authors: Yewon Kim, Mina Lee, Donghwi Kim, Sung-Ju Lee
   venue: Workshop on Intelligent and Interactive Writing Assistants (In2Writing), 2023
   year: 2023
   paperurl: https://arxiv.org/abs/2108.07258
+
+- title: "Efficient Shapley Values Estimation by Amortization for Text Classification"
+  authors: Chenghao Yang, Fan Yin, He He, Kai-Wei Chang, Xiaofei Ma, Bing Xiang
+  venue: ACL
+  year: 2023
+  paperurl: https://arxiv.org/abs/2305.19998
+
+- title: "ReCode: Robustness Evaluation of Code Generation Models"
+  authors: Shiqi Wang*, Zheng Li*, Haifeng Qian, Chenghao Yang, Zijian Wang, Mingyue Shang, Varun Kumar, Samson Tan, Baishakhi Ray, Parminder Bhatia, Ramesh Nallapati, Murali Krishna Ramanathan, Dan Roth, Bing Xiang
+  venue: ACL
+  year: 2023
+  paperurl: https://arxiv.org/abs/2212.10264
+  note: Best Paper Nomination
+
+- title: "Can You Follow Me? Testing Situational Understanding in ChatGPT"
+  authors: Chenghao Yang, Allyson Ettinger
+  venue: EMNLP
+  year: 2023
+  paperurl: https://arxiv.org/abs/2310.16135
+  note: Award Nomination
 
 - title: "CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities"
   authors: Mina Lee, Percy Liang, Qian Yang
@@ -74,13 +128,17 @@
   paperurl: https://arxiv.org/abs/2201.06796
   note: Honorable mention award
 
-
 - title: "Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation"
   authors: Vivian Lai, Samuel Carton, Rajat Bhatnagar, Q. Vera Liao, Yunfeng Zhang, Chenhao Tan
   venue: CHI
   year: 2022
   paperurl: https://arxiv.org/abs/2204.11788
 
+- title: "Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping"
+  authors: Chenghao Yang, Xuezhe Ma
+  venue: EMNLP
+  year: 2022
+  paperurl: https://arxiv.org/abs/2210.10325
 
 - title: "Decision-Focused Summarization"
   authors: Chao-Chun Hsu, Chenhao Tan
@@ -94,13 +152,11 @@
   year: 2020
   paperurl: https://arxiv.org/abs/1905.07697
 
-
 - title: "On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection"
   authors: Vivian Lai, Chenhao Tan
   venue: FAccT
   year: 2019
   paperurl: https://arxiv.org/abs/1811.07901
-
 
 - title: "Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories"
   authors: Elizabeth Clark, Anne Ross, Chenhao Tan, Yangfeng Ji, Noah A. Smith
@@ -108,17 +164,14 @@
   year: 2018
   paperurl: https://chenhaot.com/papers/creative-writing-with-a-machine-in-the-loop.html
 
-
 - title: "Friendships, Rivalries, and Trysts: Characterizing Relations between Ideas in Texts"
   authors: Chenhao Tan, Dallas Card, Noah A. Smith
   venue: ACL
   year: 2017
   paperurl: https://chenhaot.com/papers/idea-relations.html
 
-
 - title: "Winning Arguments: Interaction Dynamics and Persuasion Strategies in Good-faith Online Discussions"
   authors: Chenhao Tan, Vlad Niculae, Cristian Danescu-Niculescu-Mizil, Lillian Lee
   venue: WWW
   year: 2016
   paperurl: https://chenhaot.com/papers/changemyview.html
-
