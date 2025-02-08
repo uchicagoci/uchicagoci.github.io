@@ -1,16 +1,16 @@
 - name: Jingchao Fang
   website: https://jc-fang.github.io/
-  imageurl: /data/photos/jingchao_fang.png
+  imageurl: /images/photos/jingchao_fang.png
   note: Postdoc (hosted by Mina Lee)
 
 - name: Julia Mendelsohn
   website: https://juliamendelsohn.github.io/
-  imageurl: /data/photos/julia_mendelsohn.png
+  imageurl: /images/photos/julia_mendelsohn.png
   note: Postdoc (hosted by Chenhao Tan)
 
 - name: Xiaoyan Bai
   website: https://elena-baixy.github.io/
-  imageurl: /data/photos/xiaoyan_bai.jpg
+  imageurl: /images/photos/xiaoyan_bai.jpg
   note: PhD 2024 (advised by Chenhao Tan)
 
 - name: Dang Nguyen
@@ -20,12 +20,12 @@
 
 - name: Grace Li
   website: https://www.grace-li.org/
-  imageurl: /data/photos/grace_li.jpeg
+  imageurl: /images/photos/grace_li.jpeg
   note: PhD 2024 (advised by Mina Lee)
 
 - name: Yichen (Zach) Wang
   website: https://yichenzw.com/
-  imageurl: /data/photos/yichen_wang.jpg
+  imageurl: /images/photos/yichen_wang.jpg
   note: PhD 2024 (advised by Mina Lee and Ari Holtzman)
 
 - name: Jiayin Zhi
@@ -55,7 +55,7 @@
 
 - name: Mansi Sakarvadia
   website: https://mansisak.com/
-  imageurl: /data/photos/mansi_sakarvadia.jpg
+  imageurl: /images/photos/mansi_sakarvadia.jpg
   note: PhD 2022 (advised by Ian Foster and Kyle Chard)
 
 - name: Chacha Chen
@@ -65,7 +65,7 @@
 
 - name: Mourad Heddaya
   website: https://mheddaya.com/
-  imageurl: /data/photos/mourad_heddaya.png
+  imageurl: /images/photos/mourad_heddaya.png
   note: PhD 2021 (advised by Chenhao Tan)
 
 - name: Karen Zhou
@@ -80,7 +80,7 @@
 
 - name: Obi Obetta
   website: https://theworldofobi.github.io/
-  imageurl: /data/photos/obi_obetta.jpg
+  imageurl: /images/photos/obi_obetta.jpg
   note: Undergraduate Researcher
 
 

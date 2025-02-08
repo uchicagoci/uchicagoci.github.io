@@ -47,7 +47,7 @@ redirect_from:
         </a>
       </div>
         <div> 
-        ( {{ person.note }} )
+        {{ person.note }}
       </div>
     </div>
   {% endfor %}
@@ -65,7 +65,7 @@ redirect_from:
           {{ person.name }}         </a>
       </div>
         <div> 
-        ( {{ person.note }} )
+        {{ person.note }}
       </div>
     </div>
   {% endfor %}
