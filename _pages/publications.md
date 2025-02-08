@@ -11,7 +11,7 @@ permalink: /publications/
     <div class="publication">
       <a href="{{ publication.paperurl }}" class="publication-title">{{ publication.title }}</a>
       {{ publication.authors }}.
-      <i>{{ publication.venue }}</i>. 
+      <i>{{ publication.venue }} {{ publication.year }}</i>. 
       {% if publication.note %}
         <b>{{ publication.note }}</b>.
       {% endif %}
