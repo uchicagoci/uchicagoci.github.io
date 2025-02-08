@@ -92,15 +92,17 @@ permalink: /publications/
   <div class="filter-section">
     <div class="filter-title">Show Only</div>
     <div class="filter-buttons">
-      <button class="filter-btn active" data-awarded="all">All Publications</button>
-      <button class="filter-btn" data-awarded="true">Awarded Papers</button>
+      <button class="filter-btn active" data-note="all">All Publications</button>
+      <button class="filter-btn" data-note="true">Awarded Papers</button>
     </div>
   </div>
 </div>
 
 <div id="publication-list">
   {% for publication in site.data.publications %}
-    <div class="publication" data-year="{{ publication.year }}" data-awarded="{{ publication.note != null }}">
+    <div class="publication" 
+         data-year="{{ publication.year }}" 
+         data-has-note="{% if publication.note %}true{% else %}false{% endif %}">
       <a href="{{ publication.paperurl }}" class="publication-title">{{ publication.title }}</a>
       <div>{{ publication.authors }}.</div>
       <div><i>{{ publication.venue }} {{ publication.year }}</i>.</div>
@@ -114,19 +116,19 @@ permalink: /publications/
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const yearBtns = document.querySelectorAll('[data-year]');
-  const awardBtns = document.querySelectorAll('[data-awarded]');
+  const noteBtns = document.querySelectorAll('[data-note]');
   const publications = document.querySelectorAll('.publication');
   
   let activeYear = 'all';
-  let activeAwarded = 'all';
+  let activeNote = 'all';
 
   function updateFilters() {
     publications.forEach(pub => {
       const yearMatch = activeYear === 'all' || pub.dataset.year === activeYear;
-      const awardMatch = activeAwarded === 'all' || 
-                        (activeAwarded === 'true' && pub.dataset.awarded === 'true');
+      const noteMatch = activeNote === 'all' || 
+                       (activeNote === 'true' && pub.dataset.hasNote === 'true');
       
-      if (yearMatch && awardMatch) {
+      if (yearMatch && noteMatch) {
         pub.classList.remove('hidden');
       } else {
         pub.classList.add('hidden');
@@ -143,11 +145,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  awardBtns.forEach(btn => {
+  noteBtns.forEach(btn => {
     btn.addEventListener('click', () => {
-      awardBtns.forEach(b => b.classList.remove('active'));
+      noteBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      activeAwarded = btn.dataset.awarded;
+      activeNote = btn.dataset.note;
       updateFilters();
     });
   });
