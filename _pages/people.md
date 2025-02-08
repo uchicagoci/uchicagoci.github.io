@@ -47,9 +47,6 @@ redirect_from:
         </a>
         <p> {person.note} </p>
       </div>
-        <div> 
-        {{ person.note }}
-      </div>
     </div>
   {% endfor %}
 </div>
