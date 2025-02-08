@@ -45,7 +45,7 @@ redirect_from:
         <a href="{{ person.website }}" class="student-name">
           {{ person.name }}
         </a>
-        <p> {person.note} </p>
+        <p> {{person.note}} </p>
       </div>
     </div>
   {% endfor %}
