@@ -1,8 +1,21 @@
 - title: "Mitigating Memorization in Language Models"
   authors: Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Nathaniel Hudson, Caleb Geniesse, Kyle Chard, Yaoqing Yang, Ian Foster, Michael Mahoney
-  venue: arXiv
+  venue: ICLR
   year: 2025
   paperurl: https://arxiv.org/abs/2410.02159
+  note: Spotlight
+
+- title: "MUSE: Machine Unlearning Six-Way Evaluation for Language Models"
+  authors: Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
+  venue: ICLR
+  year: 2025
+  paperurl: https://arxiv.org/abs/2407.06460
+
+- title: "Forking Paths in Neural Text Generation"
+  authors: Eric Bigelow, Ari Holtzman, Hidenori Tanaka, Tomer Ullman
+  venue: ICLR
+  year: 2025
+  paperurl: https://arxiv.org/abs/2412.07961
 
 - title: "CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions"
   authors: Mourad Heddaya, Kyle MacMillan, Anup Malani, Hongyuan Mei, Chenhao Tan
@@ -10,12 +23,47 @@
   year: 2025
   paperurl: https://arxiv.org/abs/2501.00097
 
-- title: "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints"
-  authors: Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, Yuxin Chen
-  venue: ICLR
+- title: "Building machines that learn and think with people"
+  authors: Katherine M Collins, Ilia Sucholutsky, Umang Bhatt, Kartik Chandra, Lionel Wong, Mina Lee, Cedegao E Zhang, Tan Zhi-Xuan, Mark Ho, Vikash Mansinghka, Adrian Weller, Joshua B Tenenbaum, Thomas L Griffiths
+  venue: Nature Human Behavior
   year: 2024
-  paperurl: https://arxiv.org/abs/2309.16240
-  note: Spotlight
+  paperurl: https://www.nature.com/articles/s41562-024-01991-9
+
+- title: "Byte Latent Transformer: Patches Scale Better Than Tokens"
+  authors: Artidoro Pagnoni, Ram Pasunuru, Pedro Rodriguez, John Nguyen, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer
+  venue: arXiv
+  year: 2024
+  paperurl: https://arxiv.org/abs/2412.09871
+
+- title: "Benchmarks as Microscopes: A Call for Model Metrology"
+  authors: Michael Saxon, Ari Holtzman, Peter West, William Yang Wang, Naomi Saphra
+  venue: COLM
+  year: 2024
+  paperurl: https://arxiv.org/abs/2407.16711
+
+- title: "Human-Centered Evaluation and Auditing of Language Models"
+  authors: Ziang Xiao, Wesley Hanwen Deng, Michelle S Lam, Motahhare Eslami, Juho Kim, Mina Lee, Q Vera Liao
+  venue: CHI EA'24
+  year: 2024
+  paperurl: https://dl.acm.org/doi/abs/10.1145/3613905.3636302
+
+- title: "A Design Space for Intelligent and Interactive Writing Assistants"
+  authors: Mina Lee, et al. (+35 authors)
+  venue: CHI
+  year: 2024
+  paperurl: https://dl.acm.org/doi/full/10.1145/3613904.3642697
+
+- title: "Nearest Neighbor Speculative Decoding for LLM Generation and Attribution"
+  authors: Minghan Li, Xilun Chen, Ari Holtzman, Beidi Chen, Jimmy Lin, Wen-tau Yih, Xi Victoria Lin
+  venue: NeurIPS
+  year: 2024
+  paperurl: https://arxiv.org/abs/2405.19325
+
+- title: "Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass"
+  authors: Ethan Shen, Alan Fan, Sarah M. Pratt, Jae Sung Park, Matthew Wallingford, Sham M. Kakade, Ari Holtzman, Ranjay Krishna, Ali Farhadi, Aditya Kusupati
+  venue: NeurIPS
+  year: 2024
+  paperurl: https://arxiv.org/abs/2405.18400
 
 - title: "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models"
   authors: Yanhong Li*, Chenghao Yang*, Allyson Ettinger
@@ -28,6 +76,13 @@
   venue: NAACL Findings
   year: 2024
   paperurl: https://arxiv.org/abs/2311.09066
+
+- title: "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints"
+  authors: Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, Yuxin Chen
+  venue: ICLR
+  year: 2024
+  paperurl: https://arxiv.org/abs/2309.16240
+  note: Spotlight
 
 - title: "Causal Micro-Narratives"
   authors: Mourad Heddaya, Qingcheng Zeng, Alexander Zentefis, Rob Voigt, Chenhao Tan
