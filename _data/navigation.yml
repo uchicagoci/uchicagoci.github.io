@@ -9,7 +9,7 @@ main:
     url: /seminar/    
         
   - title: "Blog"
-    url: /blog/
+    url: https://cichicago.substack.com/
         
   - title: "Symposium"
     url: /symposium/
