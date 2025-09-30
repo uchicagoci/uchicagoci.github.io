@@ -7,8 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2 class="page__content page__content-people-title">Faculty Members</h2>
-
+<!-- <h2 class="page__content page__content-people-title">Faculty</h2>
 <div id="faculty-list">
   {% for person in site.data.faculty %}
     <div class="faculty-profile">
@@ -29,6 +28,40 @@ redirect_from:
             </span>
           {% endfor %}
         </div>
+      </div>
+    </div>
+  {% endfor %}
+</div> -->
+
+<h2 class="page__content page__content-people-title">Faculty</h2>
+<div id="student-list">
+  {% for person in site.data.faculty %}
+    <div class="student-profile">
+      <div class="student-profile-top">
+        <img src="{{ person.imageurl }}" class="student-image"/>
+      </div>
+      <div class="student-profile-bottom">
+        <a href="{{ person.website }}" class="student-name">
+          {{ person.name }}
+        </a>
+        <p> {{person.note}} </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<h2 class="page__content page__content-people-title">Affiliated Faculty</h2>
+<div id="student-list">
+  {% for person in site.data.affiliated-faculty %}
+    <div class="student-profile">
+      <div class="student-profile-top">
+        <img src="{{ person.imageurl }}" class="student-image"/>
+      </div>
+      <div class="student-profile-bottom">
+        <a href="{{ person.website }}" class="student-name">
+          {{ person.name }}
+        </a>
+        <p> {{person.note}} </p>
       </div>
     </div>
   {% endfor %}

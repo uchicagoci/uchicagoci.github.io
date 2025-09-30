@@ -1,4 +1,14 @@
+- name: Kawin Ethayarajh
+  institution: UChicago
+  email:
+  website: https://kawine.github.io/
+  imageurl: https://kawine.github.io/assets/new_profile.jpeg
+  interests:
+    - 
+    - 
+
 - name: Ari Holtzman
+  institution: UChicago
   email: aholtzman@uchicago.edu
   website: https://ariholtzman.com/
   imageurl: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c848e609-ffcf-4bcd-8375-a6b6a4a7a279/Untitled/w=1200,quality=90,fit=scale-down
@@ -9,16 +19,35 @@
     - Generative models as a new kind of abstraction
 
 - name: Mina Lee
+  institution: UChicago
   email: mnlee@uchicago.edu
   website: https://minalee-research.github.io/
-  imageurl: https://brushbrushbrushyourteeth.files.wordpress.com/2022/07/md_25-2.jpg
+  imageurl: https://minalee-research.github.io/assets/images/photos/mina.jpg
   interests:
-    - Writing with AI
-    - Human-language model interaction
-    - Evaluation in interactive settings
-    - Creativity and productivity tools
+    - Writing, reading, thinking with AI
+    - Creativity and diversity in AI output
+    - AI literacy and education
+
+- name: Karen Livescu
+  institution: TTIC
+  email:
+  website: https://home.ttic.edu/~klivescu/
+  imageurl: https://assets.amazon.science/dims4/default/63ba413/2147483647/strip/true/crop/3128x1642+0+488/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Fd1%2F61%2F10a93e7340f381c6a7620dc2a654%2Fkaren-livescu.jpg
+  interests:
+    - 
+    - 
+
+- name: Will Merrill
+  institution: TTIC
+  email:
+  website: https://lambdaviking.com/
+  imageurl: https://lambdaviking.com/assets/img/whiteboard-headshot-1400.webp
+  interests:
+    - 
+    - 
 
 - name: Chenhao Tan
+  institution: UChicago
   email: chenhao@uchicago.edu
   website: https://chenhaot.com/
   imageurl: https://chenhaot.com/theme/images/web_circle_small.jpg
@@ -27,3 +56,12 @@
     - Explanations and interpretability
     - Understanding and improving human decision making
     - AI-assisted democracy
+
+- name: Nick Tomlin
+  institution: TTIC
+  email:
+  website: https://nickatomlin.github.io/
+  imageurl: https://nickatomlin.github.io/images/profile.png
+  interests:
+    - 
+    - 
