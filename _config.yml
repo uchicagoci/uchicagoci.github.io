@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 locale                   : "en-US"
-title                    : "UChicago C&I"
+title                    : "Communication & Intelligence"
 title_separator          : "-"
-name                     : &name "UChicago C&I"
-description              : &description "The UChicago Communication & Intelligence (C&I) group"
+name                     : &name "Communication & Intelligence"
+description              : &description "The Communication & Intelligence (C&I) Group at UChicago and TTIC"
 url                      : "https://ci.cs.uchicago.edu"
 baseurl                  : 
 repository               : 
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "UChicago C&I"
+  name             : "C&I"
   avatar           : 
   bio              : 
   location         : "Chicago, IL"
