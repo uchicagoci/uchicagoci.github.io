@@ -3,12 +3,22 @@
   website: https://sociology.uchicago.edu/directory/James-A-Evans
   imageurl: https://sociology.uchicago.edu/sites/default/files/2019-11/evans_0.jpg
 
-- name: Haifeng Xu
-  email:
-  website: https://www.haifeng-xu.com/
-  imageurl: https://www.haifeng-xu.com/files/haifeng.png
+- name: Tian Li
+  email: litian@uchicago.edu
+  website: https://litian96.github.io/
+  imageurl: https://litian96.github.io/assets/img/me.jpg
 
 - name: Zhewei Sun
   email:
   website: https://zhewei-sun.github.io/
   imageurl: https://zhewei-sun.github.io/images/portrait-2024.jpg
+
+- name: Victor Veitch
+  email:
+  website: https://www.victorveitch.com/
+  imageurl: https://www.victorveitch.com/vveitch.png
+
+- name: Haifeng Xu
+  email:
+  website: https://www.haifeng-xu.com/
+  imageurl: https://www.haifeng-xu.com/files/haifeng.png

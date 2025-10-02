@@ -3,6 +3,11 @@
   imageurl: /images/photos/jingchao_fang.png
   note: Postdoc (hosted by Mina)
 
+- name: Han Zhang
+  website: https://micohan.github.io/
+  imageurl: /images/photos/han_zhang.jpeg
+  note: Postdoc (hosted by Mina)
+
 - name: Julia Mendelsohn
   website: https://juliamendelsohn.github.io/
   imageurl: /images/photos/julia_mendelsohn.png
@@ -32,6 +37,11 @@
   website: https://jzhi.app/
   imageurl: https://framerusercontent.com/images/E3Wn1OGLvGBeYwB2gCEC6WmmNQE.png?scale-down-to=512
   note: PhD 2024 (advised by Mina)
+
+- name: Erica Mi
+  website: https://ericami54321.wixsite.com/ericami
+  imageurl: https://static.wixstatic.com/media/5f4965_6b9331a3e3cf4106b4a96b9b9363acb5~mv2.jpg/v1/crop/x_35,y_0,w_963,h_963/fill/w_644,h_644,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/headshot_new_edited.jpg
+  note: PhD 2025 (advised by Mina)
 
 - name: (Harvey) Yiyun Fu
   website: https://harvey-fin.github.io/
