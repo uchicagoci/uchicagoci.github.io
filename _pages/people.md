@@ -44,7 +44,10 @@ redirect_from:
         <a href="{{ person.website }}" class="student-name">
           {{ person.name }}
         </a>
-        <p> {{person.note}} </p>
+        <!-- If person.note exists -->
+        {% if person.note %}
+          <p class="student-note"> {{person.note}} </p>
+        {% endif %}
       </div>
     </div>
   {% endfor %}
