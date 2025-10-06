@@ -3,10 +3,25 @@
   website: https://sociology.uchicago.edu/directory/James-A-Evans
   imageurl: https://sociology.uchicago.edu/sites/default/files/2019-11/evans_0.jpg
 
+- name: Shiry Ginosar
+  email:
+  website: https://shiry.ttic.edu/
+  imageurl: https://shiry.ttic.edu/images/me_2023_small.png
+
 - name: Tian Li
   email: litian@uchicago.edu
   website: https://litian96.github.io/
   imageurl: https://litian96.github.io/assets/img/me.jpg
+
+- name: David McAllester
+  email:
+  website: https://home.ttic.edu/~dmcallester/
+  imageurl: https://home.ttic.edu/~dmcallester/mcallester16.png
+
+- name: Greg Shakhnarovich
+  email:
+  website: https://home.ttic.edu/~gregory/
+  imageurl: https://datascience.uchicago.edu/wp-content/uploads/2021/09/Greg-Shakhnarovich-600x600.jpg
 
 - name: Zhewei Sun
   email:
@@ -17,6 +32,11 @@
   email:
   website: https://www.victorveitch.com/
   imageurl: https://www.victorveitch.com/vveitch.png
+
+- name: Matt Walter
+  email:
+  website: https://home.ttic.edu/~mwalter/
+  imageurl: https://home.ttic.edu/~mwalter/mwalter.jpg
 
 - name: Haifeng Xu
   email:
