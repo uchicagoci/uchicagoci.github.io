@@ -53,6 +53,11 @@
   imageurl: https://static.wixstatic.com/media/5f4965_6b9331a3e3cf4106b4a96b9b9363acb5~mv2.jpg/v1/crop/x_35,y_0,w_963,h_963/fill/w_644,h_644,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/headshot_new_edited.jpg
   note: PhD 2025 (advised by Mina)
 
+- name: Aswathy Ajith 
+  website: https://aswathyajith.github.io/ 
+  imageurl: https://aswathyajith.github.io/images/photo2.jpg 
+  note: PhD 2021 (advised by Ari and Ian Foster)
+
 - name: (Harvey) Yiyun Fu
   website: https://harvey-fin.github.io/
   imageurl: https://harvey-fin.github.io/img/harvey-fu-2023.png
@@ -66,7 +71,7 @@
 - name: Chenghao (Alan) Yang
   website: https://yangalan123.github.io/
   imageurl: https://yangalan123.github.io/assets/img/personal_image.jpg
-  note: PhD 2022 (advised by Ari (from 2024), and Allyson Ettinger (till 2024))
+  note: PhD 2022 
 
 - name: Lalchand Pandia
   website: https://lalchandpandia.github.io/
