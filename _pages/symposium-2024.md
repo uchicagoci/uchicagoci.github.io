@@ -1,7 +1,7 @@
 ---
 title: "A Symposium on Communication & Intelligence"
 layout: symposium-2024
-permalink: /symposium/
+permalink: /symposium-2024/
 ---
 
 > October 18th, 2024, 9:00 AM - 5:30 PM   

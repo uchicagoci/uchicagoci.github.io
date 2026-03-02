@@ -2,8 +2,8 @@
 <div class="speaker-grid">
     {% for speaker in speakers %}
     <div class="speaker-item">
-        <img src="{{ speaker.imageurl }}" alt="{{ speaker.name }}">
-        <h3>{{ speaker.name }}</h3>
+        <img src="{{ speaker.imageurl }}" alt="{{ speaker.name }}"{% if speaker.object_position %} style="object-position: {{ speaker.object_position }};"{% endif %}>
+        <h3>{% if speaker.url %}<a href="{{ speaker.url }}" target="_blank">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %}</h3>
         <p>{{ speaker.role }}</p>
     </div>
     {% endfor %}
