@@ -1,5 +1,6 @@
 <div class="shortcode-grid" style="display:grid;grid-template-columns:auto 1fr;gap:.5rem">
-  {% for item in site.data.symposium-2024-schedule %}
+  {% assign schedule = include.schedule | default: site.data.symposium-2024-schedule %}
+  {% for item in schedule %}
     <time>{{ item.time }}</time>
     <article>
       {% if item.event.speaker %}
