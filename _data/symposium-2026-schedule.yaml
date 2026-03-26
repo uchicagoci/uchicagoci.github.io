@@ -6,43 +6,43 @@
 
 - time: "09:05 - 10:00"
   event:
-    speaker: "Diyi Yang"
-    title: "TBD"
-    abstract: "TBD"
-    bio: "I am an assistant professor in the Computer Science Department at Stanford, affiliated with the Stanford NLP Group, Stanford HCI Group, Stanford AI Lab (SAIL), and Stanford Human-Centered Artificial Intelligence (HAI)."
-
-- time: "10:00 - 10:50"
-  event:
     speaker: "Dashun Wang"
     title: "TBD"
     abstract: "TBD"
     bio: "Dashun Wang is the Kellogg Chair of Technology and a Professor at the Kellogg School of Management and McCormick School of Engineering at Northwestern University. At Kellogg, he is the Founding Director of the Northwestern Innovation Institute, the Founding Co-Director of the Ryan Institute on Complexity, and the Founding Director of the Center for Science of Science and Innovation (CSSI). He is also a core faculty member at the Northwestern Institute on Complex Systems (NICO). His current research focus is the Science of Science, a quest to turn the scientific methods and curiosities upon science itself. He uses and develops tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science. His research has been published in journals like Nature and Science, and it has been featured in virtually all major global media outlets. Dashun is a recipient of multiple awards for his research and teaching, including the AFOSR Young Investigator award, Poets &amp; Quants Best 40 Under 40 Professors, Complex Systems Society's Junior Scientific Award, the Erdos-Renyi Prize, Thinkers50 Radar, and more."
 
-- time: "10:50 - 11:00"
-  event: "Break"
-
-- time: "11:00 - 11:50"
+- time: "10:00 - 10:50"
   event:
     speaker: "John Hewitt"
     title: "TBD"
     abstract: "TBD"
-    bio: "I am a researcher interested in developing neural language systems, deeply understanding them, and precisely controlling them, for the sake of peoples' access to information and useful tools. I did my PhD research at Stanford Computer Science, as part of the NLP group. I'm grateful to have been co-advised by Chris Manning and Percy Liang, and to have been supported by an NSF Graduate Research Fellowship. Before that, I did my undergrad studies at Penn."
+
+- time: "10:50 - 11:00"
+  event: "Break"
+
+- time: "11:00 - 11:50"
+  event: "Panel discussion"
 
 - time: "11:50 - 01:00"
   event: "Lunch / Poster session"
 
 - time: "01:00 - 01:50"
   event:
+    speaker: "Diyi Yang"
+    title: "TBD"
+    abstract: "TBD"
+
+- time: "01:50 - 02:40"
+  event:
     speaker: "Tomer Ullman"
     title: "TBD"
     abstract: "TBD"
-    bio: "I am the Morris Kahn Associate Professor of Psychology in the Department of Psychology at Harvard University. I head the Computation, Cognition, and Development lab, with a focus on intuitive theories and people's common-sense reasoning about physics and psychology. I'm also an affiliate of the Kempner Institute for the Study of Natural and Artificial Intelligence."
 
-- time: "01:50 - 02:40"
+- time: "02:40 - 02:50"
   event: "Break"
 
-- time: "02:40 - 04:10"
-  event: "Panel discussion"
+- time: "02:50 - 04:10"
+  event: "Discussion"
 
 - time: "04:10 - 04:30"
   event: "Concluding Thoughts"
