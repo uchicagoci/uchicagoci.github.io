@@ -1,8 +1,3 @@
-- name: Diyi Yang
-  role: Assistant Professor, Stanford University
-  imageurl: /images/diyi_yang_headshot.jpg
-  url: https://cs.stanford.edu/~diyiy/
-
 - name: Dashun Wang
   role: Professor, Northwestern University
   imageurl: /images/dashun_wang_headshot.jpg
@@ -13,6 +8,11 @@
   role: Assistant Professor, Columbia University
   imageurl: /images/john_hewitt_headshot.png
   url: https://www.cs.columbia.edu/~johnhew/
+
+- name: Diyi Yang
+  role: Assistant Professor, Stanford University
+  imageurl: /images/diyi_yang_headshot.jpg
+  url: https://cs.stanford.edu/~diyiy/
 
 - name: Tomer Ullman
   role: Associate Professor, Harvard University
