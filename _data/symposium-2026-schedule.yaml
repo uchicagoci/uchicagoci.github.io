@@ -1,48 +1,48 @@
-- time: "08:30 - 09:00"
+- time: "08:45 - 09:30"
   event: "Breakfast"
 
-- time: "09:00 - 09:05"
+- time: "09:30 - 09:35"
   event: "Welcome"
 
-- time: "09:05 - 10:00"
+- time: "09:35 - 10:30"
   event:
     speaker: "Dashun Wang"
     title: "TBD"
     abstract: "TBD"
     bio: "Dashun Wang is the Kellogg Chair of Technology and a Professor at the Kellogg School of Management and McCormick School of Engineering at Northwestern University. At Kellogg, he is the Founding Director of the Northwestern Innovation Institute, the Founding Co-Director of the Ryan Institute on Complexity, and the Founding Director of the Center for Science of Science and Innovation (CSSI). He is also a core faculty member at the Northwestern Institute on Complex Systems (NICO). His current research focus is the Science of Science, a quest to turn the scientific methods and curiosities upon science itself. He uses and develops tools from complexity sciences and artificial intelligence to broadly explore the opportunities for innovation and promises of prosperity offered by the recent data explosion in science. His research has been published in journals like Nature and Science, and it has been featured in virtually all major global media outlets. Dashun is a recipient of multiple awards for his research and teaching, including the AFOSR Young Investigator award, Poets &amp; Quants Best 40 Under 40 Professors, Complex Systems Society's Junior Scientific Award, the Erdos-Renyi Prize, Thinkers50 Radar, and more."
 
-- time: "10:00 - 10:50"
+- time: "10:30 - 11:20"
   event:
     speaker: "John Hewitt"
     title: "TBD"
     abstract: "TBD"
 
-- time: "10:50 - 11:00"
+- time: "11:20 - 11:40"
   event: "Break"
 
-- time: "11:00 - 11:50"
-  event: "Panel discussion"
+- time: "11:40 - 12:10"
+  event: "Q&A"
 
-- time: "11:50 - 01:00"
+- time: "12:10 - 01:30"
   event: "Lunch / Poster session"
 
-- time: "01:00 - 01:50"
+- time: "01:30 - 02:20"
   event:
     speaker: "Diyi Yang"
     title: "TBD"
     abstract: "TBD"
 
-- time: "01:50 - 02:40"
+- time: "02:20 - 03:10"
   event:
     speaker: "Tomer Ullman"
     title: "TBD"
     abstract: "TBD"
 
-- time: "02:40 - 03:10"
+- time: "03:10 - 03:30"
   event: "Break"
 
-- time: "03:10 - 04:40"
+- time: "03:30 - 04:20"
   event: "Panel discussion"
 
-- time: "04:40 - 05:00"
+- time: "04:20 - 04:30"
   event: "Concluding Thoughts"

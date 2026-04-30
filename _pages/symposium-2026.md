@@ -4,7 +4,7 @@ layout: symposium-2024
 permalink: /symposium/
 ---
 
-> May 8th, 2026, 9:00 AM - 5:00 PM
+> May 8th, 2026, 8:45 AM - 4:30 PM
 > DSI (Data Science Institute) 105
 
 This symposium is a place to discuss how to think about the intertwining of Communication and Intelligence in an age of machines that talk back. We increasingly interact with technology that attempts (simulates?) communication with humans, rather than just signaling information passively for a user to interpret. While the term "AI" has been around since the 50's, the explosion of products, services, and bots that create a complex dialogue with their users (and even among themselves!) has created a phase shift in how we interact with machines that wield language. How should we study AI that communicates, rather than just solves a well-defined problem on its own? What are the structures of the new communication networks AI helps create, spanning people, machines, and institutions? What "counts" as communication and can AI help us decompose how it works more clearly? Can machines that communicate help us communicate better? Or are they merely eroding and biasing our human communication by polluting the commons? In this symposium we will discuss how communication and intelligence interact—in humans, in machines, and between them.
@@ -21,7 +21,14 @@ Poster presenters will have the opportunity to display their posters at the Symp
 
 ## Organization
 
-The organizing committee for the Symposium on Communication & Intelligence are <a href='https://cs.uchicago.edu/people/chenhao-tan/'>Chenhao Tan</a>, <a href='http://ariholtzman.com/'>Ari Holtzman</a>, and <a href='https://dangng2004.github.io'>Dang Nguyen</a>. This event is made possible by generous support of <a href='https://stevanovichcenter.uchicago.edu/'>the Stevanovich Center for Financial Mathematics</a>.
+The organizing committee for the Symposium on Communication & Intelligence are <a href='https://cs.uchicago.edu/people/chenhao-tan/'>Chenhao Tan</a>, <a href='http://ariholtzman.com/'>Ari Holtzman</a>, and <a href='https://dangng2004.github.io'>Dang Nguyen</a>. This event is made possible by the generous support of <a href='https://stevanovichcenter.uchicago.edu/'>the Stevanovich Center for Financial Mathematics</a> and <a href='https://datascience.uchicago.edu/'>the University of Chicago Data Science Institute</a>.
+
+## Sponsors
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 1em; margin: 2em 0;">
+  <a href="https://stevanovichcenter.uchicago.edu/"><img src="{{ site.baseurl }}/images/stevanovich.png" alt="Stevanovich Center for Financial Mathematics" style="height: 70px; width: auto;"></a>
+  <a href="https://datascience.uchicago.edu/"><img src="{{ site.baseurl }}/images/dsi.svg" alt="University of Chicago Data Science Institute" style="height: 100px; width: auto;"></a>
+</div>
 
 ## Schedule
 
